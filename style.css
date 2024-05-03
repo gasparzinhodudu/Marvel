@@ -1,0 +1,22 @@
+body{background-color: black;}
+img{display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Define a altura da div para a altura da tela */
+
+}
+
+h1{color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;}
+
+.titulo-centralizado{text-align: center;
+margin-top: 50px;}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+h2{color: white;
+    font-size: larger;}
